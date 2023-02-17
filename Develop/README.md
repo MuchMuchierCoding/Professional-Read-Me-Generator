@@ -4,7 +4,16 @@
 
 ## Description
 
-description of application goes here
+type description here
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Usage](#use)
+- [Contribution] (#contributions)
+- [Features] (#features)
+- [Credits](#credit)
+- [License](#license)
 
 ## Installation Instructions
 
@@ -16,11 +25,11 @@ instructions go here
 
 ## How to Contribute
 
-instructions for contributions go here
+Do not contribute
 
 ## Features
 
-special features of the application go here
+additional features go here
 
 ## Credits
 
