@@ -4,14 +4,14 @@
 
 ## Description
 
-type description here
+description of project goes here
 
 ## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#use)
-- [Contribution] (#contributions)
-- [Features] (#features)
+- [Contribution](#contributions)
+- [Features](#features)
 - [Credits](#credit)
 - [License](#license)
 
@@ -25,11 +25,11 @@ instructions go here
 
 ## How to Contribute
 
-Do not contribute
+do not contribute
 
 ## Features
 
-additional features go here
+additinal features go here
 
 ## Credits
 
