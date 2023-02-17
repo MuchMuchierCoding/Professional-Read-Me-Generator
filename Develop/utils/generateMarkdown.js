@@ -39,8 +39,8 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#use)
-- [Contribution] (#contributions)
-- [Features] (#features)
+- [Contribution](#contributions)
+- [Features](#features)
 - [Credits](#credit)
 - [License](#license)
 
